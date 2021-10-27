@@ -1,2 +1,2 @@
 # aws-cdk-learning
-AWS CDK Workshop
+[AWS CDK Workshop](https://summit-online-japan-cdk.workshop.aws/)
